@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  font-family: Times New Roman;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-style: oblique;
+  background-color: burlywood;
+}
+
+code {
+  font-family: Times New Roman;
+}
