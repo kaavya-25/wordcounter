@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/kaavya-25/wordcounter/static/css/main.2908b58e.css",
-    "main.js": "/kaavya-25/wordcounter/static/js/main.3d591681.js",
-    "static/js/787.3a039655.chunk.js": "/kaavya-25/wordcounter/static/js/787.3a039655.chunk.js",
-    "index.html": "/kaavya-25/wordcounter/index.html",
-    "main.2908b58e.css.map": "/kaavya-25/wordcounter/static/css/main.2908b58e.css.map",
-    "main.3d591681.js.map": "/kaavya-25/wordcounter/static/js/main.3d591681.js.map",
-    "787.3a039655.chunk.js.map": "/kaavya-25/wordcounter/static/js/787.3a039655.chunk.js.map"
+    "main.css": "/wordcounter/static/css/main.2908b58e.css",
+    "main.js": "/wordcounter/static/js/main.6680eef8.js",
+    "static/js/787.3a039655.chunk.js": "/wordcounter/static/js/787.3a039655.chunk.js",
+    "index.html": "/wordcounter/index.html",
+    "main.2908b58e.css.map": "/wordcounter/static/css/main.2908b58e.css.map",
+    "main.6680eef8.js.map": "/wordcounter/static/js/main.6680eef8.js.map",
+    "787.3a039655.chunk.js.map": "/wordcounter/static/js/787.3a039655.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2908b58e.css",
-    "static/js/main.3d591681.js"
+    "static/js/main.6680eef8.js"
   ]
 }
